@@ -1,0 +1,217 @@
+Sr. No	Team	Captain	Captain Email	Captain Phone	Vice Captain	Vice Captain Email	Vice Captain Phone
+1	107ers	Prashanth Akshayapatra	prashanthakshayapatra@gmail.com	9176575838	Krishna Yerneni	yernenichoudhary@gmail.com	9736419277
+2	11 HUNTERS	Sekar Periyasamy	sekarperiyasamy@gmail.com	609 592 1342	Raghav Pathipan	raghavsenthil77@gmail.com	609 592 1342
+3	11 HUNTERS T20	Pal Athimoolam	karthick.palanivel@gmail.com	609 592 1342	Sankar Kuppuswamy	ksankar.sachin@gmail.com	609 592 1342
+4	11spartans	Yogesh Patel	yogpatel1987@yahoo.com	7326783043	Pratik Patel	pratik1993patel@yahoo.com	9086363977
+5	22 Yards	Mukul Dakwale	mdcricket@outlook.com	7326685757	Tapas Mallick	tapaskmcricket@gmail.com	8482196628
+6	Aces	Satya Tarun Reddy	satyatarun18@gmail.com	8623157575	Tharak Ram	tharak.ram@gmail.com	7324769114
+7	Adroit CC	Vijay Kamarajugadda	vijaysk16@gmail.com	9173404701	Saikumar Singaraju	saikumar.singaraju@gmail.com	6507765406
+8	All American	Arpit D Desai	appydesai112@gmail.com	2133777296	O'Neil Contractor	contractoroneil@gmail.com	9728766590
+9	Aryans	Calvin Dabre	aryans.champions@gmail.com	+1 8328400448	Sourabh Guha	dadafrmpune@gmail.com	 
+10	Avengers	Dharmesh Patel	imbakul@gmail.com	2673929897	Krunal Patel	Krunalpatel1207@gmail.com	+1 (609) 401-8751
+11	Bengal Express	Ekramul Islam	ekramulislam26@gmail.com	8622479986	Nazmul Hossain	nhemon94@gmail.com	8622479986
+12	Bergen Boys	Jigar Patel	tsi.jigar@gmail.com	6469180797	Nirav Patel	niravpatel.ny@gmail.com	2012684961
+13	Bergen Tigers CC	Midhul Jacob	midhul94@gmail.com	(917) 903-8066	Renjith Krishnankutty	renjithkk26@gmail.com	5515873767
+14	Bergen Warriors	Pavan Kumar Nitta	pavankumarnitta0329@gmail.com	2016631179	Nimesh Patel	Nhpatel77@gmail.com	2016747248
+15	BISONS XI	Mitesh Shah	mits1025@yahoo.com	2017441923	Pravin Punamiya	pravin.punamiya@gmail.com	973-714-1347
+16	BJCC	Swamy Anisetty	swamy612@gmail.com	9175390366	Giri Ravuri	anisetty612@yahoo.com	4074926384
+17	BLOODLINE	Devanshu Patel	devanshupatel28@gmail.com	7326667565	Dip Parikh	dipparikh17@gmail.com	908-591-8125
+18	Blue Aces CC	Sunny Bhardwaj	sunnypiyush18@yahoo.co.in	6127706264	Siva Sivalenka	siva.sivalenka@yahoo.com	609-619-0593
+19	Blue Leaf Sc	Abhishek Patel	abhishekpatel.aa@gmail.com	(732) 491-1016	Shashwat Patel	shanishashwat@gmail.com	 
+20	Blue Warriors	kranthi guttikonda	kranthi.guttikonda9@gmail.com	6463463459	Ankurkumar Darji	anks1987@yahoo.in	9089372384
+21	Brown Munde	Utkarsh Manjrekar	utkarsh247@gmail.com	(862) 298-1994	Tanmay More	tanmay1484@gmail.com	 
+22	Brunswick Cricket Club	Hashim Chittalwala	hashsc@gmail.com	7327815242	Arif Khan	arniekhan9319@gmail.com	9194081488
+23	Carteret 11	Navdeep Singh	singhnavdeep771@gmail.com	5185126988	Gurpreet Singh	gurpreet0599@gmail.com	7329127850
+24	CCE Warriors	Ajay Dhanekula	krish2087@gmail.com	7039017236	Nick Barot	nehula@gmail.com	6319491097
+25	Cedar Falcons	Ajay Verma	Tycoonajayverma@yahoo.com	8482379821	Shantanu Pathak	shantanu_pathak_1987@ymail.com	8482379821
+26	Celebrations Strikers Club	Harish Akkarapaka	anharrish@gmail.com	6147473171	Upendra Damacherla	upendradamacherla@gmail.com	6182259562
+27	Chargerz	Balaganesh Chakrahari	balaganesh.balaganesh@gmail.com	2193075439	Ashwin Pandiri	ashwinpandiri@gmail.com	609-216-5167
+28	Cricket Warriors	Dhaval Patel	dhaval.cric@gmail.com	201-747-4401	Manish S Makhija	manishmakhija@hotmail.com	 
+29	Crimson Hawks	Ravi Murupudi	murupudi@gmail.com	6786545234	Simranjit Singh	simranjeetsingh1786@gmail.com	8133301616
+30	Cubberly Tigers	Vivek Wadhawan	wadhawan117@yahoo.com	4129803288	Mitesh Rajani	miteshrajani@gmail.com	4843753803
+31	Desi Warriors	Naveen Byrappa	naveenbyrappa@gmail.com	2085961894	Rakesh Kar	rakeshkar3@gmail.com	 
+32	EB Strikers	Shahid Hadi	shahid_hadi74@yahoo.com	346 932 5624	Shiv Gill	firstgame001@live.com	732-844-3335
+33	Edison Capitals	Rajeev Ranjan	ranjan812001@yahoo.com	2017249135	Gagan Kharbanda	gagan.kharbanda@gmail.com	2018894039
+34	Edison Hawks CC	Kalikinkar Pradhan	pradhankk1979@gmail.com	9734449842	Harsh Shah	harsh25java@hotmail.com	(908) 906-9739
+35	Edison Kings	Ram Prakash Kota	ramprakash.kota@gmail.com	9803094902	Sivakumar Arumugam	arushivaatus@gmail.com	2019121575
+36	Edison Rebelz	Rupak Das	rrupak@yahoo.com	5083353823	Rahul Dhawan	rd13us@gmail.com	7323977099
+37	Edison Riders	Anil Atluri	anilatlurik@gmail.com	7328742925	Shiva Bandla	sbandla279@gmail.com	7742627582
+38	Edison Riders T20	Anil Atluri	anilatlurik@gmail.com	7328742925	 	 	 
+39	Edison Super Kings	Arun Ganesan	arun.ganesan21@gmail.com	7328741951	Kanakavel Chellapa	ckanaks@gmail.com	2019893875
+40	Edison Warriors	Sathya Rao	sathyajiraja@yahoo.com	2019168469	Dhiraj Borude	dhirajsborude@gmail.com	2019168469
+41	Em Sports Club	Rahul Gundani	rahulg13@gmail.com	732-789-6292	Ashish Shah	ashishass@gmail.com	 
+42	Express Rangers	Pradeep Sivashanmugam	pradeepamu@gmail.com	9739541686	Mohan Venu	mohan251987@gmail.com	2014967242
+43	F5	Thulasi T	thulasi.thota@gmail.com	7329860779	Rubesh Selvam	whiz.rubesh@gmail.com	4083327198
+44	Falcons	Ravindar Perala	ravindar.r.perala@gmail.com	2016575406	Durga Prasad Tubati	Prasadtubati525@gmail.com	 
+45	Falcons CC T20	Srinath Gentyala	srinathgentyala@gmail.com	2016575406	Anvesh Reddy Donapati	anveshkumar0515@gmail.com	 
+46	Fdu Giants	Ajit Shekar	fdugiants@gmail.com	9722817708	 	 	 
+47	Friends XI	Srinath Katari	sri_katari@yahoo.com	7326856444	Sandeep Battina	sandeep.battina@gmail.com	2014508581
+48	FTown Pack	Tirth Patel	tirthmpatel30@yahoo.com	7325956417	Harsh Patel	ph067569@gmail.com	7323189627
+49	Galli CC	Gajendra Mehta	gajendra.mehta@gmail.com	7324072035	Avinash Sridhar	avinash.sridhar@gmail.com	6092356335
+50	Garden State 11	Manish Jain	manish.bin@gmail.com	9088874446	Chandra Singh	cvsingh@gmail.com	732-763-7953
+51	Garden State Tigers	Chanchal Nag	chanchalnag2015@gmail.com	6504305759	Amrut Patnaik	amrutpatnaik@gmail.com	516-589-4257
+52	Gcc	Parth Desai	desaiparth@yahoo.com	908 380 5028	Manish Patel	patelmanishkumar@gmail.com	908 216 0918
+53	GCC T20	Parth Desai	desaiparth@yahoo.com	908 380 5028	Manish Patel	patelmanishkumar@gmail.com	908 216 0918
+54	Giant Slayers	Gunjan Patel	gunj_gp2005@yahoo.com	9736153443	Bhavin Gajera	gajera.bhavin@gmail.com	2012048713
+55	Giants	Pavan Kumar Mannam	giants.cric@gmail.com	7329978125	Paramesh Ramatenki	eshwar021@gmail.com	6024326220
+56	Gilli	Ganesh Ramasundaram	ganesh.ramasundaram@gmail.com	9144132198	Ashok Dhanasekaran	ashokkumarml@gmail.com	7605545178
+57	GoldFinch Cricket Club	Kawaljeet Singh Matta	kawal.15august@gmail.com	2016877649	Murali Govindaraj	muralikrishnan@outlook.com	9292582320
+58	Gryffindors	Subodh Singh	subodhsearch@gmail.com	5513316886	Thiyagarajan Dhakshinamoorthy	dthiyagarajanm@yahoo.co.in	7744204050
+59	Gujarat United XI	Dhaval Patel	gujaratunitedxi2020@gmail.com	7323310279	Parth V Patel	withparth@yahoo.com	7328237476
+60	Gymkhana CC	Ayazuddin Sayed	ayazuddin.sayed@gmail.com	860-839-5192	Vikas Kapoor	4vikas@gmail.com	7327237743
+61	HAMPSHIRE TITANS	Abhishek Agrawal	itsabhi.agrawal@gmail.com	6096351897	Sushil Golecha	sgolechaus@gmail.com	5512263983
+62	Hudson Hurricanes	Aniket Dalal	dalal.aniket@gmail.com	516-286-0581	Vinod Goud	sbvinodkumargoud@gmail.com	213-274-5920
+63	Hudson Hurricanes Sultans	Kuldeep Shukla	bali.kuldeep@rediffmail.com	6825527084	Dishant Shah	shahdishant07@gmail.com	2016471165
+64	Invincible CC	Sanket Rao	raosanket@yahoo.co.in	5516893533	Vishal Bhavsar	vishalbhavsar25@gmail.com	 
+65	Iselin Warriors	Amin Khatri	aminkhatri@yahoo.com	732 766 6181	Apurv Jain	cricketfreeker@gmail.com	908 525 6722
+66	Jc Mavericks	Sandeep Bikumalla	bikumalla16@gmail.com	8142189061	Harshal Kane	kaneharshal95@gmail.com	 
+67	JC Warriors	Abhishek Singh	abhishek0387@gmail.com	5512561728	Shrivats Vyas	vyasshrivats@gmail.com	5513587129
+68	Jersey Aces	Girish Shukla	girish.javanet@gmail.com	6099550811	Prasada V	vprasadareddy@gmail.com	7325899685
+69	Jersey Boys	Vineet Luthra	jerseyboys.njsbcl@gmail.com	5512004186	Fenil Shah	fenil224@gmail.com	6314136993
+70	Jersey City Dominators	Kautul Patel	kautul.patel23@gmail.com	2015520395	Priyash Nagarkar	priyashnagarkar@gmail.com	5516896818
+71	Jersey Colts	Naresh Panuganti	naresh.panuganti@gmail.com	848-459-9259	Pragnesh Amin	pragneshjamin@yahoo.com	9733907168
+72	Jersey Indians	Narendra SS	naren3883@gmail.com	 	Abhi Vipparla	abhi.vipparla04@gmail.com	3213051837
+73	JERSEY KNIGHTS CC	Kush Shroff	kshroff65@gmail.com	2017247519	Kumar Kovid	kovidshukla.shukla@gmail.com	2019696646
+74	Jersey Lions	Manoj Kaushal	manojkk10@yahoo.com	9179823352	Sandeep Bhandari	bhandari.sandeep82@gmail.com	 
+75	Jersey Panthers	Sujay Patel	sujaypatel24@gmail.com	6092339378	Chirag Patel	jerseypanthers@gmail.com	7327638332
+76	Jersey Sloggers	Jeyaraman Ramadoss	jeyaram.ramadoss@gmail.com	2016831512	Govind Somvanshi	govind.somvanshi@gmail.com	9736090803
+77	Jersey Spartans	Gowtham CV	gowtham.venkata@gmail.com	8186617766	Venkat Chennu	venkata04in.chennu@gmail.com	7323974639
+78	Jersey Stallions	Vidura Jayasooriya	vj979@yahoo.com	9176132472	Rishan Fernando	asinthaf@hotmail.com	6462583401
+79	Jersey Superstars	Vineet Luthra	jerseyboys.njsbcl@gmail.com	5512004186	Fenil Shah	fenil.njsbcl@gmail.com	 
+80	JERSEY TIGERS	Sachin Punatar	spunatar@gmail.com	2017241575	Saurabh Gandhi	srb.gandhi@gmail.com	7324916132
+81	Jersey Titans	Gaurav Darji	grv.darji@gmail.com	732-306-7190	Jay Domadiya	Jhanvijay16@gmail.com	682-560-5604
+82	Jersey Vikings	Naveenbabu Kollu	shakti.naveenk@gmail.com	9085650209	Nagesh S	nagtest78@gmail.com	8483337772
+83	Jetha 11	Nirav Patel	nirlove25@gmail.com	2158765213	Gary Patel	gaurang320@yahoo.com	215-586-0882
+84	Juggernaut	Hemant Patel	hpcric181@gmail.com	7325002423	Sandip Amin	sandip.ameen@gmail.com	7328292658
+85	Kallol Of Nj	Susnata Bhattacharjee	susnata.84@gmail.com	2018738500	Abhishek Rakhit	arakhit@hotmail.com	7327665039
+86	Karma XI	Sumanta Pal	sumantap725@gmail.com	8482626676	Pranatosh Mukhopadhyay	pranhere@gmail.com	9739012425
+87	Kennedy Kings	Khush Khamar	khamarkhush@gmail.com	7324282998	Chirag Patel	chiragp456@gmail.com	8483331727
+88	Kinnelon Colts	Shiva Lagusani	lshivacharan@gmail.com	3095699955	Shashi Bhushan	shashibhushan1143@gmail.com	3095699955
+89	Knoll CC	Prashank Raj	rajprashank@gmail.com	9732659154	Sachin Mishra	mishrasachin@gmail.com	8623093612
+90	Kranti XI	Yuvraj Patel	yuvrajpatel2020@gmail.com	7326983399	SHRUJAL SHAH	sshrujal15@yahoo.com	7323475870
+91	Lincoln XI	Abhishek Yadav	abhi.yado28@gmail.com	 	Krutesh Bhavsar	kruteshbhavsar@gmail.com	 
+92	Lion King	Amit Trivedi	amit.trivedi112214@gmail.com	732-500-8621	Nihir Patel	patelnihir88@gmail.com	7322081654
+93	LSV Lions	Niral Sheth	niraldsheth@gmail.com	6094334930	Utpal Dholakia	dholakia76@gmail.com	 
+94	Maha CC	Amin Khatri	aminkhatri@yahoo.com	(973) 776-6588	Danish Shaikh	danish.shaikh1319@gmail.com	(973) 776-6588
+95	Manalapan Cricket Club	Amit Bhandare	apbhandare@gmail.com	9083802491	Vishal Desai	desaivg@gmail.com	7325010370
+96	Manhattan Tigers	Jwalin Shah	jwalin.nshah@gmail.com	2012347786	Yakin Shah	yakin_shah007@yahoo.com	 
+97	Maples Sc	Praveen Advani	praveen.advani@gmail.com	8483918834	Divyesh Joshi	div_1974@yahoo.com	8484484985
+98	Marlboro CC	Prabhakar Baluguri	pbaluguri@hotmail.com	9736104288	Swami Venkataraman	janeswami@gmail.com	7323978133
+99	Maywood Indians	Vipul Bamanya	vipulbamaniya@yahoo.com	201-496-9640	Naveen Chinthati	chnaveenkumar@gmail.com	2015544596
+100	Mercer Challengers	Sheshank Reddy	reddy.sheshank@gmail.com	8048747801	Deepesh Naidu	deepesh.naidu@gmail.com	8482502295
+101	Mixers	Asif Mohammed	asifkhan51287@gmail.com	6692549682	Neerav Poriya	neeravporiyamum@gmail.com	6692549682
+102	MKCC Weekenders	Venu Moola	vmoola@gmail.com	6093015088	Kunal Thapar	kunalnthapar@gmail.com	 
+103	Monroe Giants Club	Durgesh Kumar	durgesh_njsbcl@yahoo.com	7322089284	Abhijeet Sethi	abhisethi@gmail.com	3475459083
+104	Monroe United	Kiran Siripelli	kiransiripelli@gmail.com	4085051600	Surya Kasara	sunny_k2714@outlook.com	7328109111
+105	Montgomery Knights CC	Umesh Kaushik	monukaushik@gmail.com	8487029457	Siva Musuluri	siva.musuluri@gmail.com	7326667444
+106	Montgomery Titans	Vishnu Salukuti	salukuti.vis@gmail.com	3143437557	Jay Vallabhaneni	vallabhjay@yahoo.com	5513581958
+107	Morris Indians	Visu Kondeti	kondetivisweswararao@gmail.com	2243920726	Uday Kumar Kota	udaykumarkota@gmail.com	2243920726
+108	Mystery Squad	Haridut Athi	haridut1992@gmail.com	2179046698	Manish Kulkarni	manishpalaksh12@gmail.com	 
+109	Namo XI	Biren Patel	nivani1115@gmail.com	2017445565	Shalin Shah	shalinshah27@gmail.com	4322070004
+110	Newport CC	ArunPrasad Govindarajan	arun3402@gmail.com	2019207998	Bala Kandhan	shamcres@gmail.com	 
+111	Newport Narcos	Chet Kalra	chetkalra@gmail.com	2162550587	Rohan Mate	rohan.mate06@gmail.com	8328664997
+112	Newport Nukes	Ravi Batra	ravibatra21@gmail.com	2019121151	Shubhneet Sethi	shubhneet.sethi@gmail.com	6462587414
+113	NJ Boxers	Rajeev M	rajeev.mon@gmail.com	8482563381	ISTU MANSURI	istu.captain@gmail.com	 
+114	Nj Braves	Pradeep Jeyapaul	pradeep.jey@gmail.com	6098191976	Hardik Bhilota	hardik.bilota@gmail.com	9082833431
+115	Nj Champs	Reji Joseph	rejijo@gmail.com	732-309-0748	Rahulk Gupta	rahul.njsbcl@gmail.com	732-309-0748
+116	NJ Marvels	Narendran Suruliappan	narenchamp@gmail.com	4844708373	Sai Kalyan R	saikalyan.cricket@gmail.com	 
+117	NJ Smashers	Soumya Saha	em2saha@gmail.com	4259999050	Karan Bhargav	karan2405@gmail.com	9016515915
+118	Nj Stars CC	Imran Raja	raajay22@hotmail.com	917-504-0000	Sunny Desai	sunnyrdesai@gmail.com	 
+119	Nj Tigers	Naveed Azam	naveedazam@yahoo.com	6157517769	Sajjad Faisal Syed	sajjad_faisal@hotmail.com	9086511669
+120	NJ Titans	Mitul Saraiya	mitul.a.saraiya@gmail.com	9292717766	Uchit Sheth	uchitsheth2014@gmail.com	2018876538
+121	Nj Warriors	Praveen Mandya	njwarriors.edison@gmail.com	(908) 912-6720	Kalpesh Mehta	kmehta31@gmail.com	9546323693
+122	Nj Yorkers	Jeyaparakash Jeyapal	jpisfine@yahoo.com	6466734818	Janakiraman Shanmugavel	81.janakiraman@gmail.com	7327304133
+123	NJKnights	Sanchit Bansal	sanchit5888@gmail.com	7325192000	Sanjay Geepalayam	gbsanjayis@gmail.com	7327949993
+124	North Jersey United	Hemish Kapadia	hemish.us@gmail.com	916-717-5958	Sanketh Shetty	sanky2k3@gmail.com	2032526051
+125	Orion Stars	Sunil Raj	sunilrajkg@gmail.com	6095925264	Sreejith Kuruvampadath	ksreejithk@outlook.com	5514448361
+126	Panthers	Shilp Shah	shilp_india@yahoo.com	7326406330	Chaitanya Patel	chaitanyapatel1991@yahoo.com	7325852188
+127	Parsippany Phoenix XI	Praveen Vinnakota	praveen1720max@gmail.com	7328826852	Naveen Rayal	rayaln0410@gmail.com	2039884939
+128	Parsippany Sports Cricket XI	Chirag Patel	adl_chiragpatel@yahoo.com	9734628651	Lalit Mohan	lalitandmohan@gmail.com	2018889325
+129	Parsippany Super Kings	Savan P	saawans@gmail.com	9803491567	Pradeep Reddy Patil	patilpradeepkumar@gmail.com	4256287708
+130	Passaic Titans	Parth Rana	parthrana257@gmail.com	9738511716	Anuj Gandhi	agandhi11887060@gmail.com	2016582568
+131	Patriots CC	Srini Bhattiprolu	srichakra@hotmail.com	7327426051	Lakshman Gummadi	lakshman_gummadi@hotmail.com	7324444542
+132	PCA Jr.	Parth Desai	desaiparth@yahoo.com	908 380 5028	Chintan Patel	chintan1015753@gmail.com	7326291027
+133	PCC	Kinshuk Bhattacharya	tokinshuk28@gmail.com	2015194835	Jagdish Dhobley	jagdish@dhobley.com	9083311604
+134	Perryville Panthers	Spuran Vaddiraju	vaddirajuspuran@gmail.com	3179656499	Dinesh Yakamuru	dinesh.yakamuru@gmail.com	2019658192
+135	Phoenix Flyers	Suresh Murthy	suresh.api@gmail.com	 	Shunmugavel Bhagavathi Perumal	shunmugavel.b@gmail.com	5512211330
+136	Piscataway CC	Purvang Patel	purvang10@yahoo.com	732-325-7000	Vrajesh Patel	vrajesh1228@gmail.com	 
+137	Piscataway Mavericks	Sriharsha Reddy	pmcricketnj@gmail.com	7327600555	Vijay Reddy Vongala	v.vongala@gmail.com	 
+138	Piscataway Warriors	Kenny Christian	kckenny2011@yahoo.com	7327637112	Chirayu Patel	pchirayu47@gmail.com	7326403942
+139	Plainsboro Eagles	Bharath Reddy	bharathreddy.vaddi@gmail.com	5512211330	Pavan Palle	ppalle@yahoo.com	7322611554
+140	Plainsboro Hawks	Sharath B	sharathbiligiri@gmail.com	6098034045	Paramesh Ramatenki	eshwar021@gmail.com	6024326220
+141	Plainsboro Knights	Rohit Ranjan	rohitranjan25@gmail.com	6097211001	Shan A S	ns08102015@gmail.com	6092858139
+142	Plainsboro Panthers	Nitesh C	niteshckumar@gmail.com	8144315726	Karan N	karan.sfdc@gmail.com	3368470879
+143	Plainsboro Super Kings	Kathiravan Muthukrishnan	amkathiravan@gmail.com	2245872072	Sandeep Humne	sandeep.humne@gmail.com	 
+144	Pmcc	Revanth Pakyala	itsmerevnani@gmail.com	7328903889	Jaskirat Sodhi	jaskiratsodhi@gmail.com	6465091804
+145	Power Hitters	Raghvendra Singh	ragsin100@gmail.com	2017366609	Rajesh Bansal	2453rajesh@gmail.com	4096001673
+146	Princeton Walk	Soundharrajan Muralidharan	soundharrajan_m@yahoo.com	7324064676	Jasneet Singh	jasneet18@gmail.com	6462656480
+147	PRO SQUAD	Manan Patel	prosquadnjsbcl@gmail.com	8482568717	Dev Patel	vconqu3r@gmail.com	8482609001
+148	PUNJAB XI	Sukhwinder Singh	sunnysinghnjsbcl@gmail.com	908-612-6178	Vishal Bhogesara	Vishalbhogesara@gmail.com	5512604738
+149	Pway Cubs	Deep Patel	deepp223@gmail.com	7178091505	Shri Patel	lionsxi.xi@gmail.com	8645405901
+150	Pway Devils	Rahul Patel	princerahul181@yahoo.com	8482281977	Harsh Bhavsar	bhavsar.harsh95@gmail.com	8482520386
+151	Pway Lions	Neel Patel	nrp6782@gmail.com	7324916782	Bhavik Patel	bpatel1007@gmail.com	201-888-1648
+152	RCW - Weekenders	Sushant Saini	saini.sushant@gmail.com	6506133768	Vinay Chauhan	bawinay@gmail.com	7325994287
+153	Renaissance Kings	Lacit Pullahniveetil	pvlacit@hotmail.com	(908) 313-0180	Rajat Choudhary	rickynaughty@gmail.com	732-485-8553
+154	Renegades	Farjad Siddiqui	farjad.siddiqui90@gmail.com	 	Rizwan Ahsan	rahsan@yahoo.com	 
+155	RHG	Vivian Pereira	vivianpereira@yahoo.com	757-620-9207	Kevin Shah	kevinshah00k@gmail.com	201 682 6134
+156	Ridge Cricket Club	Anoop Deshpande	anoop.deshpande@gmail.com	6109968810	Puneet Shah	87.puneet@gmail.com	2128107324
+157	Robbinsville CC	Jugal Rathod	jugalrathod@gmail.com	862-576-0432	Harjeewan Singh	mahant307@gmail.com	7326628868
+158	Robbinsville Cricket Warriors	Nikhil Sharma	nikhil.sharma@outlook.com	7323062187	Anjeneya Dubey	anjeneya2@gmail.com	17327374351
+159	Robbinsville Jaguars	Vikas Singh	vikas.kumarsingh@outlook.com	8622210249	Anoop Athayil	anoopathayil@yahoo.com	2485253962
+160	Rowdy Rebels	Zoheb Khalid	zohebkhalid2021@gmail.com	2019036478	Anoop Hegde	ngh_tati@yahoo.com	3474491933
+161	Royal Strikers	Varun Segu Mohan	varunmsegu@gmail.com	5104498426	Harsh Vardhan	hvardhan1981@gmail.com	2014642997
+162	RRR	Gokul Das Maharajan	gokul@rrrcricket.com	+1 (551) 697-8426	ArunPrasad Govindarajan	arun3402@gmail.com	2019207998
+163	Saffron Sapphire	Maulik Patel	maulik.patel407@gmail.com	562 668 6111	Pushpraj Rajput	rajputpushpraj777@gmail.com	2673429864
+164	SAMP XI	Kirtan Patel	kirtanpatel573@gmail.com	8482481412	Rumit Patel	rumit009@yahoo.co.in	9088385458
+165	Samudhra Gladiators	Sridhara Raju	sridhara.raju@yahoo.com	5512080242	Varaprasad Bhatta	prasadbvsv@yahoo.com	7326092174
+166	SB Vikings Challengers Cricket Club	Tamil Selvan Ramachandran	rtamilselvanbe@gmail.com	201 850 2338	Magesh Kamalakannan	magesh03@gmail.com	8622153838
+167	SB Vikings Cricket Club	Madesh Swaminaidu	madeshsnaidu@gmail.com	2019936645	Harish Achappa	harishkumara@hotmail.com	 
+168	Scc XI	Himanshu Dhimar	himanshudhimar@gmail.com	6105093334	Jigesh Dalal	jigesh25@gmail.com	2014506215
+169	Secaucus Fighters	Virendra Patel	virec0649@gmail.com	 	Panam Patel	Panamair@gmail.com	2012329623
+170	Secaucus Punters	Nikhil Kartha	nikhilskartha@gmail.com	2013806335	Pankaj Gugnani	mailtopankajgugnani@gmail.com	6466308633
+171	Shreeji XI	Ujjaval Patel	ujjavalpatel2626@gmail.com	8482192561	Yogesh Patel	yogpatel1987@yahoo.com	7326783043
+172	Sinclair Lions	Ramana Isukapalli	ramana16@hotmail.com	7324232099	Ravindra Bhangale	bhangale@yahoo.com	7324297801
+173	SKY KINGS	Kiran Kumar Ch	kiran1123mobile@gmail.com	8483198014	Sundar Rapuru	rapur.sundar@gmail.com	 
+174	Smashers XI	Tumul Kumar Singh	tumul@outlook.com	7323978260	Neel Patel	pneel730@gmail.com	7324764705
+175	Smashers XI Weekenders	Milin Shah	milin21@gmail.com	732-318-8565	Tirth Patel	pateltirth148@gmail.com	9084567294
+176	Somerset CC	Manoj Vidavalapati	manojkv2@gmail.com	(732) 309-7520	Ashish Aras	ashisharas@gmail.com	(716) 704-3029
+177	Sparta XI	Suman Maramreddy	sumanmaram@gmail.com	5512561696	Roop Yekollu	yrk1436@gmail.com	2018301508
+178	Sreeshti	Amol Manjrekar	amol.mnjrekar@gmail.com	7326193648	Abhy M	abhy_m@hotmail.com	7326193648
+179	Sreeshti Aggies	Somak Das	dsomak@gmail.com	7326193648	Abhy M	abhy_m@hotmail.com	7326193648
+180	Sreeshti Weekenders	Vipin Bhardwaj	vipibh@yahoo.com	9178612786	Abhy M	abhy_m@hotmail.com	7326193648
+181	Starz CC	Nandakishore More	morenandu@yahoo.com	7322663879	Abhijit Subhedar	abhis@hotmail.com	7322161746
+182	Storm Riders	Apurv Jain	cricketfreeker@gmail.com	908 525 6722	Siddhesh Rane	siddheshsr@gmail.com	4252745462
+183	Straight Drive CC	Jaslok Mishra	jaslokmishra@yahoo.co.in	3157082393	Shailesh Karnire	shailesh.karnire@gmail.com	3472236598
+184	Sunrisers CC	Kunal Patel	sunriserscc@yahoo.com	609-933-6940	Nikhil Patel	patelnikhild@gmail.com	2019605558
+185	Super Challengers	Baskar Durai	baskar4frnds@gmail.com	201-887-4109	Parthiban Ranganathan	parthi_3610@yahoo.co.in	2018569685
+186	Super Kings	Thinnappan Muthu	thinnappankumar@gmail.com	2018858854	Sriram Chandramouli	rambeckam@gmail.com	5133009413
+187	Supernovas	Akshay Telang	akshay903@gmail.com	6468244346	Rishi Bhosale	rishikesh.bhosale30@gmail.com	2019324122
+188	Team Highlanders	Yokesh Rajaram	yokeshnj@gmail.com	9802654649	Senthil Prabhu R	kutty.cit@gmail.com	9177545654
+189	Telugu Titans	Ramesh Reddy Mopuru	rameshrmopuru@gmail.com	7326244554	Surya Nallamilli	manisurya321@gmail.com	 
+190	Telugu Titans - Weekenders	Mithilesh Challakonda	mithileshn@gmail.com	3134422761	Akshay Kumar Kemoju	akshaykemoju@gmail.com	2032437533
+191	The Bulls	Bhavik Chokshi	chokshibbhavik@gmail.com	9085609844	Ishan Shah	Thebullsnj@gmail.com	908-906-5310
+192	The Elites	Mahesh Mani	mahesh.85.m@gmail.com	201-275-5048	Santosh Kumar Mishra	ssantosh.k.mishra@gmail.com	609-865-8688
+193	THE ISOTOPES	Manoj Ghuge	manoj.ghuge111@gmail.com	9738455899	Saket Somvanshi	somvanshi.saket@gmail.com	973-449-3220
+194	The Knights	Arul Prakash	arulmac85@gmail.com	7326406548	Sivaraj KSB	ksbsivaraj@gmail.com	8185714800
+195	The Oaks	Naveen Peddigari	naveen.peddigari@yahoo.com	(347) 445-1227	Krishna V Pullatikurti	pkrishna_vardhan@yahoo.co.in	7324290251
+196	The United Falcons	Alap Shah	theunitedfalcons@gmail.com	5519980020	Xitij Shah	xrshah@gmail.com	5513586233
+197	Thunder Strikers Cricket Club	Praveen Barala	barybary1980@gmail.com	609-807-1266	Paritosh Fulara	paritoshfulara@gmail.com	6073388479
+198	Toms River XI	Ketan J Shah	jollyketan@yahoo.com	908-693-3459	Sunil Patel	sunil711@hotmail.com	732-470-7702
+199	Tough Boys	Jayaseelan Murugaiyan	dulcejay@gmail.com	4794309431	Ramraj Devarajan	rmrjdeva89@gmail.com	5183166490
+200	Trident CC	Sujan Gowda	sujan.7676@gmail.com	7327894663	Sujith Gudipudi	sujithgudipudi@gmail.com	4085976167
+201	TRIDENTS XI	Harish (Harry)	harishsuratkal@gmail.com	646-398-4193	Tushar Patel	ayrmist@gmail.com	7324855533
+202	Troy Titans	Rama Eluri	reluri61@gmail.com	5106760223	Sreenath Dande	sreenathdande1250@gmail.com	9733902577
+203	United Cricket Club	Madhava Upadrasta	madhavaram123@gmail.com	8482195675	Viswanath Garlapati	visu332@yahoo.com	 
+204	Veerans	Naveen Elangovan	naveenelangovan84@gmail.com	9089382003	Sundip Helchal	sundeephelchal@gmail.com	 
+205	Veerans T20	GOPI SENDURPANDIAN	gopsmmn@gmail.com	8482569249	Raghuraman Gopalakrishnan	raghuinus2k1@gmail.com	4703994383
+206	Vikings CC	Satish Golla	satish474@gmail.com	9083918125	Krishna Sista	phanindrasista@gmail.com	7328563459
+207	VRK Gladiators	Sanju S	sanjushanmuga@gmail.com	8484800360	Harshad Patil	harshad.patil152000@gmail.com	7325891896
+208	Warriors	Abhishek Patel	abhipatel.7774@gmail.com	7329127045	Aakash Patel	aaapatel410@gmail.com	8484679446
+209	Waterfront Warriors	Vivek Singh	viveksingh16099293@gmail.com	2018850602	Ajinkya Pradhan	abp407@nyu.edu	3479703726
+210	Wayne Warriors	Sapan Rana	sapanrana91@gmail.com	2016885455	Neerav Modhera	nirav528@gmail.com	 
+211	WCC	Amar S	amarnjusa@gmail.com	6094694551	Vaibhav Kakadia	vkakadia@gmail.com	8482199880
+212	Windsor Warriors	Chintan Joshi	chintan.joshi1986@gmail.com	6094963272	Taranjeet Singh	taransingh089@gmail.com	6094963272
+213	Woodbridge Warriors	Eswar Kondisetti	eswarkondisetti@yahoo.com	9548658462	Viswanathan Arulmalar	nathanviswa278@gmail.com	6094811236
+214	Woodlot Boyz	Soumya Saha	em2saha@gmail.com	4259999050	Fuzail Mohamed	mohamedfuzail@gmail.com	8482520672
+215	Youth For Sewa	Ram Jammula	kodandaramudu308@gmail.com	7325937754	Manikanta Raja Kottu	kottumanikanta08@gmail.com	 
+216	Yuva	Amrish Rathod	amrish.rathod@gmail.com	7323314992	Ambrish Patel	bhulkuambrish369@gmail.com	(551) 247-8398
